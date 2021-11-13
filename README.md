@@ -11,6 +11,12 @@ Linear Regression using Gradient Descent.
 Gradient Descent is an iterative optimization algorithm to find the minimum of a function. Here that function is our Loss Function.
 
 
+Quantile regression models 
+
+- Shows the relationship between a set of predictor (independent) variables and specific percentiles (or "quantiles") of a target (dependent) variable, most often the median. It has two main advantages over Ordinary Least Squares regression:
+Quantile regression makes no assumptions about the distribution of the target variable.
+Quantile regression tends to resist the influence of outlying observations.
+
 
 - 👀 I’m interested in Machine Learning, and Deep Learning for Economics.
 - 🌱 I’m currently learning Data Science.
