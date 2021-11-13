@@ -17,11 +17,20 @@ Quantile regression models
 Quantile regression makes no assumptions about the distribution of the target variable.
 Quantile regression tends to resist the influence of outlying observations.
 
+Random Forest.
 
-- 👀 I’m interested in Machine Learning, and Deep Learning for Economics.
-- 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- A random forest is a meta estimator that fits a number of classifying decision trees on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting.
+
+
+K-Nearest Neighbors 
+
+-K-Nearest Neighbors(or k-NN for short) is a simple machine learning algorithm that categorizes an input by using its k nearest neighbors.
+
+Support-Vector Machines
+
+-In Machine Learning, Support-Vector Machines (SVMs, also support-vector networks) are supervised learning models with associated learning algorithms that analyze data for classification and regression analysis.
+
+
 
 <!---
 Rortizri/Rortizri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
