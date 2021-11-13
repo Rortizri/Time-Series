@@ -24,11 +24,11 @@ Random Forest.
 
 K-Nearest Neighbors 
 
--K-Nearest Neighbors(or k-NN for short) is a simple machine learning algorithm that categorizes an input by using its k nearest neighbors.
+- K-Nearest Neighbors(or k-NN for short) is a simple machine learning algorithm that categorizes an input by using its k nearest neighbors.
 
 Support-Vector Machines
 
--In Machine Learning, Support-Vector Machines (SVMs, also support-vector networks) are supervised learning models with associated learning algorithms that analyze data for classification and regression analysis.
+- In Machine Learning, Support-Vector Machines (SVMs, also support-vector networks) are supervised learning models with associated learning algorithms that analyze data for classification and regression analysis.
 
 
 
