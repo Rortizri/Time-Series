@@ -30,6 +30,9 @@ Support-Vector Machines
 
 - In Machine Learning, Support-Vector Machines (SVMs, also support-vector networks) are supervised learning models with associated learning algorithms that analyze data for classification and regression analysis.
 
+DEEP LEARNING FUNDAMENTALS
+
+- Deep learning is a subset of machine learning, which is essentially a neural network with three or more layers. These neural networks attempt to simulate the behavior of the human brain far from matching its ability—allowing it to learn from large amounts of data.
 
 
 <!---
