@@ -26,3 +26,6 @@ As an example, the process below is not stationary. Notice how the mean is not c
 # VAR-X
 
 In the upper part you can see the code to work with a VAR-X Model.
+
+The use of Vector Autoregression with exogenous variables (VAR-X) and structural VAR-X models in econometrics is not new, we can fined description of how to implement these models in  Lütkepohl (2005). 
+In this type of model we have a variable exogenous to the model. In other words, this variable has no relationship with the others. The interesting thing about this methodology is to see how the exogenous variable varies. With tools with Impulse Response (FIR) functions.
