@@ -22,3 +22,7 @@ Without going into the technicalities of the Dickey-Fuller test, it test the nul
 If it is, then p > 0, and the process is not stationary.
 Otherwise, p = 0, the null hypothesis is rejected, and the process is considered to be stationary.
 As an example, the process below is not stationary. Notice how the mean is not constant through time.
+
+# VAR-X
+
+In the upper part you can see the code to work with a VAR-X Model.
